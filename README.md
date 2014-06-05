@@ -1,4 +1,2 @@
-jojuca-player
-=============
-
-Reproductor de Audio y Video en la nube
+# jojucaPlayer
+### a Sails application
